@@ -3,7 +3,7 @@
 #include<stdio.h>
 using namespace std;
 
-int main(){
+	void array (){
 	int array [] = {10,20};
 	int arraym [2][2] = {{800,700},{400,500}};
 	
