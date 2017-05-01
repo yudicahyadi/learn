@@ -1,9 +1,9 @@
-#include<iostream>
-#include<conio.h>
-#include<stdio.h>
+#include<iostream>;
+#include<conio.h>;
+#include<stdio.h>;
 using namespace std;
 
-	void array (){
+	int main (){
 	int array [] = {10,20};
 	int arraym [2][2] = {{800,700},{400,500}};
 	
